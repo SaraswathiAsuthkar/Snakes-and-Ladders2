@@ -76,7 +76,7 @@ public class SnakeLadders{
 			}
 
 		}
-		System.out.println("you won!");
+		System.out.println("you won! hurray");
 	}
 	
 }
